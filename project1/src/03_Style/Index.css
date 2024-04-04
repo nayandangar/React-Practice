@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    /* padding: 0; */
+}
+.bodyDiv {
+    background-color: yellow;
+    height: 50vh;
+  }

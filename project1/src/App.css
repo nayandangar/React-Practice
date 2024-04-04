@@ -1,4 +1,4 @@
-#root {
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -11,13 +11,29 @@
   will-change: filter;
   transition: filter 300ms;
 }
+
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
+.class1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.reactimg{
+  padding: 20px;
+  height: 350px;
+  width: 450px;
+transition: 0.5s ease-in-out all;}
+.reactimg:hover {
+ transform: translateY(-20px);
+  filter: drop-shadow(0 0 2em #646cffaa);
 
+}
+.practimg{height: 300px;width: 500px;}
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
@@ -28,15 +44,18 @@
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
+  a:nth-of-type(1) .logo {
     animation: logo-spin infinite 20s linear;
   }
 }
-
+.practice{
+  font-size: 25px;
+  color: white;
+}
 .card {
   padding: 2em;
 }
 
 .read-the-docs {
   color: #888;
-}
+} */
