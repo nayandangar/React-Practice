@@ -8,14 +8,16 @@ export default function StatePro1() {
     if(index+1 >= color.length){
       setindex(0);
     }else{
-        setindex(index+1);
+      setindex(index+1);
     }
    }
     return (
     <div>
+      <h1> react web</h1>
         <div className='d-flex flex-column justify-content-center align-items-center' style={{height:"100vh", width:"100wh",backgroundColor:color[index] }}>
             <h1>{index}</h1>
-          <Button onClick={()=>ColorHandler()} color="dark" >Change Color</Button>
+          <Button onClick={()=>ColorHandler()} color="darkblue" >Change Color</Button>
+          
         </div>
     </div>
   )

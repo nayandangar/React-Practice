@@ -1,0 +1,39 @@
+
+[
+    {
+      "email": "nayandangar12@gmail.com",
+      "password": "12345",
+      "userType": "user"
+    },
+    {
+      "email": "arpitdangar@gmail.com",
+      "password": "44335",
+      "userType": "employee"
+    },
+    {
+      "email": "krishchavda25@gmail.com",
+      "password": "33659",
+      "userType": "admin"
+    },
+    {
+      "email": "lateshpatil22@gmail.com",
+      "password": "9885",
+      "userType": "user"
+    },
+    {
+      "email": "yagnik15@gmail.com",
+      "password": "12345",
+      "userType": "admin"
+    },
+    {
+      "email": "khushal19@gmail.com",
+      "password": "12345",
+      "userType": "user"
+    },
+    {
+      "email": "utsavjadvani56@gmail.com",
+      "password": "12345",
+      "userType": "employees"
+    }
+  ]
+  

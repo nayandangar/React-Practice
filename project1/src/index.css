@@ -68,3 +68,10 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 } */
+.img-sec{
+  height: 25px;
+  
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

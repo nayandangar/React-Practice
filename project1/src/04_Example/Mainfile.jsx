@@ -6,7 +6,7 @@ import './style.css'
 export default function Mainfile() {
   return (
     <div>
-        {/* <ProjectEx /> */}
+        <ProjectEx />
     </div>
   )
 }

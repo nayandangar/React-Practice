@@ -1,0 +1,27 @@
+16-04-2024 [Tuesday]
+
+Today's Task is : 
+ (1) We can't add without given any value in input 
+ (2) When We Edit any value at that time we cant Add another Value
+ (3) When the input is Blank then make a sentance there Data is Not Available there 
+ (4) max - 10 task Add then give a warning by tostify and say you can only Add 10 Input
+ (5) When this warning will given then your input must desable at that time 
+
+
+ 
+
+\\ Pending 
+=>complete Assignment at time :react 
+=> I Want to learning tailwind by my self 
+
+
+# Soft Skill 
+
+I want to tell in class Dis Advantages of share market 
+
+then Gallary Walk
+
+
+
+
+
